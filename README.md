@@ -1,4 +1,4 @@
-# Turkish-to-Latex
+# Turkish-to-Latex-Converter
 This code converts a text with Turkish characters to a Latex-compatible text. 
 The output can be directly copied and paste to the Latex environment without  needing an additional package.  
 This  is especially useful for whom wishes to use inputenc package with 
